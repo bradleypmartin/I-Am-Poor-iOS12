@@ -3,14 +3,16 @@
 
 #  I Am Poor
 
-## Our Goal
+## My Goal
 
-The objective of this challenge is to make sure you are comfortable with using the storyboard and designing your own UI elements. We want to make sure that everything we covered in the last tutorial is clear and you’ll be able to do it by yourself without help.
+This repo was forked off of the [London App Brewery](https://www.londonappbrewery.com/)'s starter project for working with basic view elements in iOS. My goal is simply to add a couple elements to the main app view that show that I'm part of 'the 99\%'.
 
-## What you will create
+## Notes during preparation
 
-Now that you have been rich, it’s time to join the 99%. This app will proudly display a lump of coal and the statement “I Am Poor”; the perfect app for when you get asked for money on the streets. 
+* It was pretty simple to find this and fork it off of Angela's initial submission. Let's see how an import into Xcode goes!
 
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+* No problem! Looks like all the app icons are in place and ready-to-go, as advertised. I'm gonna go ahead and get some objects into the main view.
+
+>This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/). I (Brad) actually completed this as part of a Udemy course rather than an in-person bootcamp, but it's still a lot of fun! And I'll leave on the App Brewery's banners for their efforts in preparing the course and materials. :)
 
 ![End Banner](Documentation/readme-end-banner.png)
